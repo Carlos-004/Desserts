@@ -1,0 +1,33 @@
+{
+  "name": "desserts",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.77.8",
+    "vite": "^5.3.4"
+  },
+  "description": "Este es el proyect de una interfas de postre",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Carlos-004/Desserts.git"
+  },
+  "keywords": [
+    "javaScript",
+    "vite",
+    "sass",
+    "html"
+  ],
+  "author": "Carlos Daniel \"deleonguzmancarlosdaniel6@gmail.com\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlos-004/Desserts/issues"
+  },
+  "homepage": "https://github.com/Carlos-004/Desserts#readme"
+}
